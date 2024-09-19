@@ -74,7 +74,7 @@ class Home extends StatelessWidget {
                   width: 10.0,
                 ),
                 Text(
-                  'Phone Number',
+                  'Your Phone Number',
                   style: TextStyle(fontSize: 20.0),
                 ),
               ],
@@ -106,7 +106,7 @@ class Home extends StatelessWidget {
                   width: 10.0,
                 ),
                 Text(
-                  'Email',
+                  'Your Email',
                   style: TextStyle(
                     fontSize: 19.0,
                   ),
